@@ -1,9 +1,11 @@
-package com.harp.binancesmartchainsdk;
+package com.harp.binancesmartchainsdk.sample;
 
 import android.os.Bundle;
 import android.widget.Toast;
 
 import androidx.appcompat.app.AppCompatActivity;
+
+import com.harp.binancesmartchainsdk.BinanceManager;
 
 import io.reactivex.android.schedulers.AndroidSchedulers;
 import io.reactivex.schedulers.Schedulers;
