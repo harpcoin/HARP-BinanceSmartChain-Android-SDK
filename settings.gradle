@@ -1,0 +1,3 @@
+include ':binance-smart-chain-sdk'
+include ':app'
+rootProject.name = "Binance-chain-sdk"
